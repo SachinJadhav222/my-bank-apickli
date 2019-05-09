@@ -1,0 +1,10 @@
+{
+	"cmpcbo": {
+		"domain": "http://cmp-wlp.cmp.sbx.zone",
+		"basepath": "",
+		"clientId": "CLIENT-ID",
+		"clientSecret": "CLIENT-SECRET",
+		"merchantId": "1234567890",
+		"merchantKey": "12345678901234567890"
+	}
+}
